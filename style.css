@@ -1,3 +1,21 @@
-body {
-  background-color: 199.277.220;
+body{
+   background-color: #F0ECD0  ;
+}
+h3 {
+  color: white;
+  font-size: 400%;
+    background-color: pink ;
+    letter-spacing: 2px;
+}
+p {
+  color: #F575D6;
+  font-size: 200%;
+}
+
+img {
+  width: 20%;
+}
+
+iframe {
+  border: line 4px #445986;
 }
